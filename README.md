@@ -1,3 +1,3 @@
 # resources
 
-Wikipage: https://github.com/ai4er-cdt/resources/wiki
+Wiki: https://github.com/ai4er-cdt/resources/wiki
