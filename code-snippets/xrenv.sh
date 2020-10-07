@@ -15,9 +15,9 @@ conda install -y -c conda-forge eccodes
 conda install -y -c conda-forge pynio
 conda install -y -c conda-forge nc-time-axis
 conda install -y -c conda-forge dask
+conda install -y -c conda-forge cf_xarray
 conda install -y -c conda-forge jupyter_contrib_nbextensions # as suggested by Simon Mathis
 jupyter nbextensions_configurator enable --user  
 jupyter contrib nbextension install --user
 
-# conda install sphinx
 # conda list --explicit > xarray-env.txt
