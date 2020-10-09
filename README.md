@@ -1,5 +1,5 @@
 <br></br>
-[<img align="right" src=img/BAS_logo_colour.jpg width=350px>](https://bas.ac.uk)
+[<img align="right" src=img/BAS_logo_colour.jpg width=350px>](https://bas.ac.uk/ai)
 [<img align="left" src=img/cambridge_university2.svg width=300px>](https://ai4er-cdt.esc.cam.ac.uk/)
 
 <br><br><br>
